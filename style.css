@@ -1,0 +1,154 @@
+
+body{
+    background-color: rgb(106, 122, 122);
+}
+#Red{
+    font-size: 50px;
+    color: #F4C430;
+    text-align: center;
+    text-decoration: double;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+    
+}
+#White{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    text-decoration: double;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
+#Green{
+    font-size: 50px;
+    color:  rgb(15, 211, 15);
+    text-align: center;
+    text-decoration: double;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
+#pole{
+    height: 600px;
+    width: 10px;
+    background-color: white;
+    border-radius: 2%;
+    border-color:black;
+    margin-left: 700px;
+    border-style:solid; 
+}
+#box1 {
+    margin-left: -85px;
+    margin-top: 350px;
+    height: 60px;
+    width: 200px;
+    background-color: #D48415;
+    border-style:solid;
+}
+#box2 {
+    margin-left: -160px;
+    height: 70px;
+    width: 350px;
+    background-color: #D48415;
+    border-style:solid; 
+   
+}
+#saffron{
+    margin-left: 12px;
+    height: 50px;
+    width: 235px;
+    background-color: #F4C430;
+    /* border-style:solid;  */
+
+}
+
+#white{
+    margin-left: 12px;
+    height: 50px;
+    width: 235px;
+    background-color: white;
+    /* border-style: solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center 
+
+}
+
+#green{
+    margin-left:12px;
+    height: 50px;
+    width: 235px;
+    background-color: rgb(15, 211, 15);
+    /* border-style:solid;  */
+
+}
+.chakra {
+	height: 48px;
+    width: 48px;
+    border: 2px solid darkblue;
+    border-radius: 50%;
+    position: relative;
+}
+ .chakra .spokes {
+	height: 50px;
+	width: 1px;
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+	background: darkblue;
+}
+
+.spokes:nth-child(1) {
+	transform: rotate(15deg)
+}
+
+.spokes:nth-child(2) {
+	transform: rotate(30deg)
+}
+
+.spokes:nth-child(3) {
+	transform: rotate(45deg)
+}
+
+.spokes:nth-child(4) {
+	transform: rotate(60deg)
+}
+
+.spokes:nth-child(5) {
+	transform: rotate(75deg)
+}
+
+.spokes:nth-child(6) {
+	transform: rotate(90deg)
+}
+
+.spokes:nth-child(7) {
+	transform: rotate(105deg)
+}
+
+.spokes:nth-child(8) {
+	transform: rotate(120deg)
+}
+
+.spokes:nth-child(9) {
+	transform: rotate(135deg)
+}
+
+.spokes:nth-child(10) {
+	transform: rotate(150deg)
+}
+
+.spokes:nth-child(11) {
+	transform: rotate(165deg)
+}
+
+.spokes:nth-child(12) {
+	transform: rotate(180deg)
+} 
+
+
